@@ -1,0 +1,10 @@
+{
+  "name": "cambiogrupo",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "dialog-polyfill": "^0.4.3",
+    "angular": "^1.6.6",
+    "bootstrap": "^3.3.7"
+  }
+}

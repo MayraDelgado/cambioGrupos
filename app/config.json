@@ -1,0 +1,21 @@
+{
+  "name": "cambioGrupo",
+  "supportEmail": "mayra.delgado@metricamovil.com",
+  "version": "0.0.1",
+  "items": [{
+    
+    "url": "cambioGrupo.html",
+    "path": "",
+    "menuName": {
+      "en": "cambioGrupo"
+    },
+    
+    "icon": "images/icon.svg"
+  }],
+  "dev": {
+    "root": "cambioGrupo",
+    "dist": {
+      "host": "https://www.example.com/myaddin/"
+    }
+  }
+}
